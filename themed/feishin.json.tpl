@@ -8,7 +8,7 @@
     "foreground-muted": "{{ color15 }}",
     "surface": "{{ selection_background }}",
     "surface-foreground": "{{ selection_foreground }}",
-    "black": "{{ color0 }}",
+    "black": "{{ bright_foreground }}",
     "white": "{{ color7 }}"
   },
   "app": {
